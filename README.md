@@ -85,4 +85,17 @@ All project screenshots are available inside the screenshots folder.
 Author
 Internship Project - Data Storytelling App
 Built using Streamlit, Pandas and Plotly.
+## Instructions to Run the Project
+
+1. Install dependencies
+
+pip install -r requirements.txt
+
+2. Run the application
+
+python -m streamlit run app.py
+
+3. Open in browser
+
+http://localhost:8501
 
